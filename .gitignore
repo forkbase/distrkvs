@@ -1,0 +1,24 @@
+# build directories
+build/
+duild/
+buildall/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled object files, compiled libraries
+*.o
+*.so
+*.a
+
+# vim files
+*.swp
+
+# cmake files
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+
+# temporary directory
+tmp/
